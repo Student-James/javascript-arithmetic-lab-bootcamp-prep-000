@@ -59,8 +59,8 @@ function dec(a) {
  return (--a)
 }
 
-function  makeInt(n) {
+function  parseInt(n) {
 
-'n' = parseInt(1.00000,10)
+
   
 }
