@@ -46,4 +46,9 @@ function makeInt(n) {
 
 }
 
-pre
+function preserveDecimal(n) {
+  
+  return parseFloat (n, 10)
+}
+
+}
