@@ -42,6 +42,6 @@ function dec(a) {
 
 function makeInt(n) {
 
-return (parseInt (1,100)
+
   
 }
