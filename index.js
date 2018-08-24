@@ -61,6 +61,6 @@ function dec(a) {
 
 function  makeInt(n) {
 
-  var = ('n' = parseInt(1.00000,10))
+'n' = parseInt(1.00000,10)
   
 }
