@@ -63,6 +63,6 @@ var n = 2.22222222
 
 function  makeInt(n) {
 
-return (parseInt ('n',10))
+return (parseInt ('n',100))
   
 }
