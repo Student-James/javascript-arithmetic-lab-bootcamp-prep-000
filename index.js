@@ -59,7 +59,7 @@ function dec(a) {
  return (--a)
 }
 
-function  parseInt(n) {
+function  makeInt(n) {
 
 
   
