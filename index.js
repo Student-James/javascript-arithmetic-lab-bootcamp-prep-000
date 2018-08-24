@@ -40,8 +40,8 @@ function dec(a) {
 
 
 
-function  makeInt(n) {
+function makeInt(n) {
 
-return (parseInt ('n',100))
+return (parseInt (1,100)
   
 }
