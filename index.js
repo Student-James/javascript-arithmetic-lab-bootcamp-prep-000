@@ -59,7 +59,7 @@ function dec(a) {
  return (--a)
 }
 
-var n=2.22222222
+var n = 2.22222222
 
 function  makeInt(n) {
 
