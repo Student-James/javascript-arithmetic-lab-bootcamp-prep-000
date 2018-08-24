@@ -44,6 +44,6 @@ function makeInt(n) {
 
 return (parseInt('n',10))
 
-if NaN (return "true")
+
   
 }
