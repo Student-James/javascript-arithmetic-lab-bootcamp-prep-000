@@ -42,6 +42,6 @@ function dec(a) {
 
 function makeInt(n) {
 
-return makeInt('a', a)
+return makeInt('n', n)
 
 }
